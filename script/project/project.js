@@ -1,27 +1,27 @@
 var dataJson = [
   {
     "img": "https://cdn-icons-png.flaticon.com/128/644/644667.png",
-    "title": "Mcodo: Learn coding, A.I. Chat Bot & Online 25+ compiler.",
-    "paragraph": "Android Kotlin, Retrofit, Server-Sent Events (SSE), Room DB, ACE Editor.",
-    "url": "https://play.google.com/store/apps/details?id=in.sohezsoft.mcodo"
+    "title": "CanaraHSBC Life Insurance",
+    "paragraph": "Developed Flutter Application for Mobile and Web from same codebase and Implemented Getx for State Management",
+    "url": "https://play.google.com/store/apps/details?id=com.choiceapp.genius&hl=en_IN"
   },
   {
     "img": "https://cdn-icons-png.flaticon.com/128/5806/5806364.png",
-    "title": "Student Portal App",
-    "paragraph": "Android Kotlin, Retrofit, Glide, ROOM, Lottie animation.",
-    "url": "https://github.com/sohez/StudentPortalApp"
+    "title": "Akbar Travel",
+    "paragraph": "Developed Flights and Hotels Booking Application with BLOC and Providers",
+    "url": "https://play.google.com/store/search?q=akbar+travels&c=apps&hl=en_IN"
   },
   {
     "img": "https://cdn-icons-png.flaticon.com/128/1021/1021264.png",
-    "title": "Registration Full API",
-    "paragraph": "PHP API : LOGIN, SIGNUP, FORGOT-PASS, Data ENC/DEC, PHP POD, MYSQL.",
-    "url": "https://github.com/sohez/PHP-Projects/tree/main/REGISTRATION-FULL-API"
+    "title": "Worked on Tata Neu Ecommerce App",
+    "paragraph": "Working on Payments Module of Tata Neu App under Tata Digital as a client and Worked on UI Designs and API Integrations",
+    "url": "https://play.google.com/store/search?q=tata+neu&c=apps&hl=en_IN"
   },
   {
     "img": "https://cdn-icons-png.flaticon.com/128/2156/2156009.png",
-    "title": "Marks Percentage Calculator & Download Result.",
-    "paragraph": "HTML, CSS, Js (lib- jspdf, html2canvas)",
-    "url": "https://sohez.github.io/Marks-Percentage-Calculator/"
+    "title": "Droom Second Hand Bike Selling Application",
+    "paragraph": "Worked with Droom Team to develop module for droom clients to purchase bikes and Used Bloc, Firebase, Hive, Rest Api's and multiple Flutter Tools",
+    "url": "https://play.google.com/store/search?q=droom+bike+app&c=apps&hl=en_IN"
   }
 ];
 
