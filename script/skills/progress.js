@@ -1,23 +1,23 @@
 var dataJson = [
     {
-        "name": "Web development",
+        "name": "Flutter development",
+        "width": "80%"
+    }, {
+        "name": "iOS development",
         "width": "60%"
     }, {
-        "name": "Android development",
-        "width": "75%"
-    }, {
-        "name": "PHP API",
+        "name": "Firebase API",
         "width": "85%"
     },{
-        "name": "Java/Kt",
-        "width": "65%"
+        "name": "GIT",
+        "width": "85%"
     }, {
-        "name": "Python",
-        "width": "45%"
+        "name": "DART",
+        "width": "90%"
     },
     {
-        "name": "Sql",
-        "width": "40%"
+        "name": "Database",
+        "width": "70%"
     }
 ];
 
